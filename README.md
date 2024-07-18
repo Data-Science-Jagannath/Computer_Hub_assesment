@@ -12,12 +12,13 @@ This Streamlit application enables users to interact with a chatbot trained on a
 - **Memory**: Maintains a conversation history to provide context for follow-up questions.
 
 ## Requirements
-
 - Python 3.10
 - Streamlit
 - dotenv
 - PyPDF2
 - LangChain
+- langchain-community
+- langchain-openai
 - OpenAI
 - FAISS
 
@@ -34,6 +35,7 @@ cd <repository_name>
 
 \`\`\`sh
 pip install streamlit python-dotenv PyPDF2 langchain openai faiss
+or pip install -r requirements.txt
 \`\`\`
 
 3. Set up environment variables:
