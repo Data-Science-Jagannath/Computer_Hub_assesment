@@ -1,0 +1,14 @@
+openai
+langchain
+cohere
+tiktoken
+langchain-community
+pypdf
+langchain-openai
+chromadb
+streamlit
+PyPDF2
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+InstructorEmbedding
