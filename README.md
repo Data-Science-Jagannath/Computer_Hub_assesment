@@ -55,7 +55,7 @@ pdf_path = r"C:\path\to\your\document.pdf"
 1. Run the Streamlit application:
 
 \`\`\`sh
-streamlit run app.py
+streamlit run main.py
 \`\`\`
 
 2. Open your web browser and navigate to the local Streamlit server URL, usually `http://localhost:8501`.
